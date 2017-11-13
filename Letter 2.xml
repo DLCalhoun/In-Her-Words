@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<body>
+<div type="letter">
+<opener>
+<dateline>
+<date when="1982-09-12">
+9-12-82</date>
+</dateline>
+<salute>Dear Tressy,</salute>
+</opener>
+<p>
+Well today is Sunday, and church is over, and I have nothing to do or any where to go, so I'll just set here and do what?
+</p>
+<p>
+Hope you are getting use to be away from home and haveing a good time. Friday night some of the football team was in a wreck, some hurt bad was sent to
+<placeName ref="#Spartanburg">Spartanburg,</placeName>
+to a hospital one of the boys was
+<persName ref="#Vincent_Logan">Vincent Logan</persName>
+He is Ray's
+brother,
+they say he was the star player.
+<persName ref="#Gina_Logan">Gina</persName>
+is home she is going back to school and is going to leave the baby with 
+<persName ref="Gearl_Logan">Gearl.</persName>
+I haven't seen them yet, she'll be here until Oct. 1
+</p>
+<p>
+<persName ref="#Johnie_M.">Johnie M.</persName>
+and me worked at a wedding last night. I thought I would dream dishes the rest of the night. I got tired. We worked from 6 to 10. I needed the money
+</p>
+<p>
+A message from the chicken's
+<quote>come home we are hungry--haven't eaten since Friday. Come please.
+</quote>
+</p>
+<p>
+Not much to write about here is $4.00 can you buy stamps there, if so can you get a book for four dollars, if not I'll try to send you some next week. 
+<advice>
+Work hard and learn everything you can.
+</advice>
+I'm glad you are working that will keep some to keep from being homesick.
+<advice>Just keep bussey at somethings, even if you have to make up somethings to do.
+</advice>
+</p>
+<p>My spelling is afull but I hope you can make out what I'm saying.
+</p>
+<p>
+<advice>Be good and work hard. I love you and so proud of you, because you are trying to make better your life so you won't have to wash dishes and make bed's and sweep nasty floors.
+</advice>
+<wish>
+I wish I could have did more with my life
+</wish>
+</p>
+<closer>
+<p>I'll love you always</p>
+<signed>Mary--(Grandmother)</signed>
+</closer>
+<postscript> 
+<p>The boys was from the high school in
+<placeName ref="Spindale">Spindale,</placeName>
+haven't heard they're doing
+</p>
+<p>Mary</p>
+</postscript>
+</div>
+</body>
+</text>
+</TEI>

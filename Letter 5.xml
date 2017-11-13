@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<text>
+<body>
+<div type="letter">
+<opener>
+<dateline>
+<date when="1982-10-14">
+Postmark 10-14-1982</date>
+</dateline>
+<salute>Tressy..</salute>
+</opener>
+<p>
+I’m lazy I guess just laying around and not writing, how are you I’m sleepy now its been so rainy and coal [cold], good sleeping weather, everyone are doing fine here hope everything is going well with you I hope you have time to keep your hair and clothing clean and neat, for your appearance will go a long ways in school I know you study, but I wont [want] you to be tops in everything els, that means keeping everything clean, from head to toe with every in between, teeth, too. Tressy I bet
+<persName ref="#Ivon">Ivon</persName>
+talking to you now its 9 o lock
+<action>(smile)</action>
+<persName ref="#Shirley">Shirley</persName>
+came over again today she stayed a good while, she is afraid
+<persName ref="#John">John</persName>
+is going to run her off again,they have a time I wish you could have seen that house before we got it cleaned up. I can’t find that rooster joke so I’ll write another.
+</p>
+<p>
+<joke>
+The sheriff catches a Mexican man who had held up a bank down on the border  the Sheriff says, “Pedro, I know you’ve got that 11 million bucks, I wont [want] to know where it is” Pedro says, “No speak English” the sheriff goes and get an interpreter. Put a gun to Pedro’s head and says, “You tell Pedro if he doesn’t tell me where the money is I’m gonna blow his head off. “The interpreter explains to Pedro whats gonna happen and Pedro says, “I buried the money in the dry well at the end of the street.” So the sheriff says to the interpreter, “What did Pedro say? The interpreter says, “Pedro says he not afraid to die.”
+</joke>
+Thats not funny is it? I'll find the rooster, let me tell you what 
+<persName ref="#Lisa_Freeman">Lisa</persName> said,
+<persName ref="#Laura_Freeman">Laura</persName>
+and me were talking on the phone, some way Black Jack the conversation and I said he could warm my sheets anytime, 
+<persName ref="#Lisa_Freeman">Lisa</persName>
+said, I had better turn on my blanket and forget it
+</p>
+<p>I didn't go to class tonight, it's so rainy, mabe [maybe] next week. I hope--I guess this note is a dissipontment [disappointment] not much said, tell 
+<persName ref="#Sara">Sara</persName> 
+Hello
+<advice>
+be good and remember I love you, be Tressy and don't try to be someone els--and be smart about all your friends
+</advice>
+</p>
+<closer>
+<p>Love always</p>
+<signed>Mary</signed>
+</closer>
+<side> I have no money this time. I'll try next week</side>
+</div>
+</body>
+</text>
+</TEI>
